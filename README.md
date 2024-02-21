@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Not live yet
+- Link to Hello-React-Front-End App[link](https://github.com/tsheporamantso/hello-react-front-end/pull/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
