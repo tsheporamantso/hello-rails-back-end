@@ -8,11 +8,12 @@
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
 greetings = [
-  'Bonjor',
-  'Habari',
-  'Ciao',
-  'Sviluppatore web',
-  'Benvenuti nel mondo della tecnologia!'
+  "Bonjor",
+  "Habari",
+  "Ciao",
+  "Sviluppatore web",
+  "Benvenuti nel mondo della tecnologia!",
+  "Welcome to Rails with React.",
 ]
 
 greetings.each do |greeting|
